@@ -11,8 +11,7 @@ I build lightweight, responsive utility tools and robust web applications. With 
 - 🔭 **Currently working on:** Building scalable full-stack applications and expanding my backend capabilities across PHP and Node.js.
 - 🌱 **Currently learning:** Advanced API integrations, server-side architecture, and relational database management.
 - 💡 **What I do:** I specialize in transforming complex requirements into functional, user-friendly web utilities—from custom calculation engines to dynamic, data-driven applications.
-- 📫 **How to reach me:** [Email Me](mailto:krunaldevganiya2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/krunal-devganiya-007ab2392)
-
+- 📫 **How to reach me:** [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=krunaldevganiya2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/krunal-devganiya-007ab2392)
 ---
 
 ## 🛠️ Tech Stack
