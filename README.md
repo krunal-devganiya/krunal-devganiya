@@ -25,9 +25,7 @@ I build lightweight, responsive utility tools and robust web applications. With 
 
 ## 💻 Featured Projects
 
-### 🏛️ E-Governance Service Portal
-A full-stack PHP and MySQL web application built for citizen services.  
-- **Key Features:** Role-Based Access Control (RBAC), dynamic service forms, automated payment tracking, and comprehensive audit logging.
-- **Integrations:** Custom Mails API for real-time customer updates and automated newsletter distribution.
+* **[E-Governance Service Portal](https://github.com/dharmik176/earthcafe):** A full-stack PHP and MySQL web application featuring Role-Based Access Control (RBAC), dynamic service forms, automated payment tracking, and comprehensive audit logging for citizen services, with mails API that give update to customer and also use in Newsletter feature.
+* **Collaborator:** Built in partnership with [@dharmik176](https://github.com/dharmik176)
 
 ---
